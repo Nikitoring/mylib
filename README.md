@@ -1,2 +1,0 @@
-# mylib
-library client 
